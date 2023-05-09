@@ -3,7 +3,7 @@
 
 [:video_camera: SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
 
-[:bookmark_tabs: SEE POSTER HERE](https://drive.google.com/file/d/1Xrp-v-Ypt75Cg9kjDuZT1scfmFaTNaCP/view?usp=share_link)
+[:bookmark_tabs: SEE POSTER HERE](https://drive.google.com/file/d/1Xrp-v-Ypt75Cg9kjDuZT1scfmFaTNaCP/view?usp=share_link) or above
 
 [:open_file_folder: DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
 
