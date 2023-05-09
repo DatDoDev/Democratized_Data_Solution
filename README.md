@@ -1,9 +1,11 @@
 # Democratized_Data_Solution
-[---> SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
+[:computer: SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
 
-[--> DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
+[:video_camera: SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
 
-[---> :video_camera: SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
+[:open_file_folder: DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
+
+
 
 ## INSTALLATION
 
