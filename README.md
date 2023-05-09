@@ -1,5 +1,13 @@
 # Democratized_Data_Solution
 
+------------ 
+## INSTALLATION
+------------
+
+For the Tableau visualization, please use Tableau 2022.4 if running locally. Alternatively, the Tableau visualization can be accessed via Tableau Public at this link: https://public.tableau.com/app/profile/karen4405/viz/Team79_Visualization/MainDashboard
+
+If using the Tableau Public version, no further installations or dependencies are required and all data should be pre-connected. For the best experience, we recommend using a larger (e.g., desktop) computer screen to maximum display as the map renders all states and zip codes in the United States.
+
 ---------------------
 CONTENTS OF THIS FILE
 ---------------------
@@ -27,23 +35,17 @@ CODE:
 - income_data_import_code.ipynb
  This Jupyter notebook is used to create a K-means machine learning model, perform clustering, and clean up Income Data set as part of the project.
 
-- Team079_Visualization.twbx
+- Visualization.twbx
  This file contains the main functionality of the application, which is the visualization component.
 
 DOC:
-- team079poster.pdf
+- poster_Democratized_Data_Solution.pdf
  This is the final version of the poject's poster.
 
-- team079report.pdf
+- Democratized_Data_Solution.pdf
  This is the final report for the project
 
------------- 
-## INSTALLATION
-------------
 
-For the Tableau visualization, please use Tableau 2022.4 if running locally. Alternatively, the Tableau visualization can be accessed via Tableau Public at this link: https://public.tableau.com/app/profile/karen4405/viz/Team79_Visualization/MainDashboard
-
-If using the Tableau Public version, no further installations or dependencies are required and all data should be pre-connected. For the best experience, we recommend using a larger (e.g., desktop) computer screen to maximum display as the map renders all states and zip codes in the United States.
 
 ---------
 ## EXECUTION
