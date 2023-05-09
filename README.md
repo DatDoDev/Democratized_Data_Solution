@@ -3,7 +3,7 @@
 
 [--> DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
 
-[---> SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
+[---> :video_camera: SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
 
 ## INSTALLATION
 
