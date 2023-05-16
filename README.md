@@ -1,6 +1,7 @@
 # Bridging the Gap between Citizens and Local Governments: A Democratized Data Solution
 A visualization project aims to build trust between regular citizen and government. 
 
+## Quick Links 
 [:bar_chart: SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
 
 [:video_camera: SEE VIDEO PRESENTATION HERE](https://www.youtube.com/watch?v=EReiQd1YQcU)
