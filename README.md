@@ -1,5 +1,5 @@
 # 🏗️  Bridging the Gap between Citizens and Local Governments: A Democratized Data Solution 🌉
-A visualization project aims to build trust between regular citizen and government. 
+Conducted a comprehensive analysis of income patterns and financial assistance distribution by collecting, cleaning, and refining over 16,500 observations from governmental tax income records and more than 1,000,000 data points from financial assistance databases. Leveraged a state-of-the-art machine learning algorithm (e.g., Random Forest) and the Python library (e.g., Pandas, Scikit-learn) to process and analyze the data. The outcome was an interactive map visualization that offers users the ability to explore and gain insights from various data points, empowering policymakers and researchers to understand income disparities and make informed decisions.
 
 ## Quick Links 
 [:bar_chart: SEE VISUALIZATION HERE ](https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard)
