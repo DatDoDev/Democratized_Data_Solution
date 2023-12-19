@@ -11,21 +11,28 @@ Conducted a comprehensive analysis of income patterns and financial assistance d
 - [:open_file_folder: DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
 
 
-
-## 🔨 INSTALLATION
-
-For the Tableau visualization, please use Tableau 2022.4 if running locally. Alternatively, the Tableau visualization can be accessed via Tableau Public at this link: https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard
-
-If using the Tableau Public version, no further installations or dependencies are required and all data should be pre-connected. For the best experience, we recommend using a larger (e.g., desktop) computer screen to maximum display as the map renders all states and zip codes in the United States.
-
-
 ## 📁 CONTENTS IN FILES
+
+       .
+       ├── Democratized_Data_Solution.pdf                 # Written report of our works             
+       │
+       ├── README.md
+       │
+       ├── poster_Democratized_Data_Solution.pdf          # All reports redacted and unredacted
+       │
+       └── ...
 
 * DESCRIPTION
 * PACKAGE STRUCTURE
 * INSTALLATION
 * EXECUTION
 
+
+## 🔨 INSTALLATION
+
+For the Tableau visualization, please use Tableau 2022.4 if running locally. Alternatively, the Tableau visualization can be accessed via Tableau Public at this link: https://public.tableau.com/app/profile/binh.vu5742/viz/Visualization_16835996323470/MainDashboard
+
+If using the Tableau Public version, no further installations or dependencies are required and all data should be pre-connected. For the best experience, we recommend using a larger (e.g., desktop) computer screen to maximum display as the map renders all states and zip codes in the United States.
 
 ## DESCRIPTION
 
