@@ -10,6 +10,9 @@ Conducted a comprehensive analysis of income patterns and financial assistance d
 
 - [:open_file_folder: DOWNLOAD FILES HERE](https://drive.google.com/drive/folders/1nTQe0mLxE-BWR_injImy1uHtF8uRVRTa?usp=share_link)
 
+## 📖 Result
+![Alt text](./result.png)
+
 
 ## 📁 CONTENTS IN FILES
 
